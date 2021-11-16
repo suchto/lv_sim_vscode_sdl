@@ -95,11 +95,17 @@ int main(int argc, char **argv)
 //  lv_example_flex_3();
 //  lv_example_label_1();
 
-  lv_demo_widgets();
+//  lv_demo_widgets();
 //  lv_demo_keypad_encoder();
 //  lv_demo_benchmark();
 //  lv_demo_stress();
 //  lv_demo_music();
+
+  // _lv_multi_camera();
+  // _lv_multi_camera_2();
+  // _lv_multi_camera_3();
+
+  _lv_multi_camera_2();
 
   while(1) {
     /* Periodically call the lv_task handler.

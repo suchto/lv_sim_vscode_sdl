@@ -1,9 +1,9 @@
 [submodule "lv_examples"]
 	path = lv_examples
-	url = https://github.com/lvgl/lv_examples.git
+	url = https://github.com/suchto/lv_demos.git
 [submodule "lv_drivers"]
 	path = lv_drivers
-	url = https://github.com/lvgl/lv_drivers.git
+	url = https://github.com/suchto/lv_drivers.git
 [submodule "lvgl"]
 	path = lvgl
-	url = https://github.com/lvgl/lvgl.git
+	url = https://github.com/suchto/lvgl.git
